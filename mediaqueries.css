@@ -134,4 +134,17 @@
          text-align: justify;
      }
 
+     .row {
+        padding: 10px;
+     }
+
+     .about-col-1 img {
+         width: 20rem;
+     }
+
+     .about-col-2{
+        margin-top: 5px;
+        flex-basis: 100%;
+     }
+
  }
