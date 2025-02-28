@@ -95,6 +95,7 @@
 
      .contact-info-container {
          margin: 0;
+         margin-bottom: 0.2rem;
      }
 
      .contact-info-container p,
