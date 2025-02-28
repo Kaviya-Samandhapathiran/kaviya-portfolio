@@ -406,6 +406,7 @@ article .icon {
   align-items: center;
   gap: 0.5rem;
   margin: 1rem;
+  padding-bottom: 0.7rem;
 }
 
 .contact-info-container p {

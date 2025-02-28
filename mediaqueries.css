@@ -68,9 +68,18 @@
 
  @media screen and (max-width: 600px) {
 
+    #about{
+        margin-top: -4rem;
+    }
+
+    #projects{
+        margin-top:2rem;
+    }
+    
      #contact,
      footer {
-         height: 25vh;
+         height: 10vh;
+         margin-top: 5rem;
      }
 
      #profile {
@@ -97,10 +106,6 @@
          margin: 0;
      }
 
-    .contact-info-upper-container{
-        margin-bottom: 1rem;
-
-    }
      .contact-info-container p,
      .nav-links li a {
          font-size: 1rem;
