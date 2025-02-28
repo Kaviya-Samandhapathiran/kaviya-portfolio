@@ -75,7 +75,7 @@
     #projects{
         margin-top:2rem;
     }
-    
+
      #contact,
      footer {
          height: 10vh;
@@ -104,6 +104,7 @@
 
      .contact-info-container {
          margin: 0;
+         padding-bottom: 0.6rem;
      }
 
      .contact-info-container p,
